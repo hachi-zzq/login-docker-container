@@ -1,1 +1,1 @@
-# shell_login_docker_container
+用于本地命令行越过容器物理主机直接登录到容器的 SHELL 脚本。
